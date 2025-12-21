@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm George
 
-<!--
-**Melendez99/Melendez99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and build automation systems that save time, reduce manual work, and scale operations using no-code and AI tools.
 
-Here are some ideas to get you started:
+## What I Do
+- Business process automation (Make.com, n8n, Zapier)
+- AI agents & assistants (OpenAI, Vapi)
+- CRM & data workflows (Airtable, Google Sheets, Notion)
+- API integrations (Stripe, Shopify, Webhooks)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Automation Systems
+🔹 Shopify ↔ Bol.com Price Sync Automation  
+🔹 Football Venue Booking System (“The Best Player”)  
+🔹 AI-assisted Church Outreach System
+🔹 Marketing / Content Distribution- Multi-Channel Content Automation & Distribution
+🔹 Betting Results & Capital Tracking Automation
+🔹 Real Estate / High-Ticket Sales- AI-Driven Outbound & WhatsApp Sales Automation
+🔹 B2B Sales / Marketing Agencies- Automated Lead Enrichment & Qualification System
+🔹 SEO / Content Marketing / WordPress Publishing / Blog 
+
+
+👉 See my projects below 👇
+
+## Tech Stack
+Make.com · n8n · Zapier · Airtable · OpenAI · Stripe · Shopify · Webhooks · APIs
+
+## Contact
+📩 Email: melodygeorge99@gmail.com
+💼 LinkedIn: www.linkedin.com/in/melody-george-4708ae4255
+🌟 Website: https://thedevelopersguild.lovable.app/
